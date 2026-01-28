@@ -167,7 +167,6 @@
             българскиToolStripMenuItem.Name = "българскиToolStripMenuItem";
             българскиToolStripMenuItem.Size = new Size(180, 22);
             българскиToolStripMenuItem.Text = "Български";
-            българскиToolStripMenuItem.Click += българскиToolStripMenuItem_Click;
             // 
             // Form1
             // 
